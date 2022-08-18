@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿ /*
+ 1.константные
+ 2.Логарифмические
+ 3. Линейные
+ 4. Линейно-логарифмические
+ 5. Квадратичные
+ 6. Кубические
+ */
+  
